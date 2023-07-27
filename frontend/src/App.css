@@ -1,0 +1,55 @@
+/* navbar */
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+nav.navbar {
+  min-height: 60px;
+  padding: 0px 1rem;
+}
+a.nav-link {
+  font-size: 1.2rem;
+}
+ul.navbar-nav.ms-auto {
+  column-gap: 1.5rem;
+}
+/* createuserform */
+.create-user {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* updateuserform */
+.update-user {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* userlist */
+.user-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+
+.user-list .pagination {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.user-list p {
+  margin: 5rem;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+}
