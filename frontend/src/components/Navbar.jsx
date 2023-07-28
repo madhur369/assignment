@@ -12,7 +12,7 @@ export default function Navbar() {
     <div className='header'>
       <nav className="navbar navbar-expand-sm navbar-dark  bg-dark">
         <div className='container-fluid'>
-          <h1 className="navbar-brand">Curd</h1>
+          <h1 className="navbar-brand">Crud</h1>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
